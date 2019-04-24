@@ -5,14 +5,14 @@
 Use the composer to install this library
 
 ```bash
-composer require epicsweb/php-tarefaspp
+composer require epicsweb/php-tarefasapp
 ```
 
 ## Usage
 
-Get you **SECRET API KEY**: https://tarefas.app/tarefas.app/companies/edit
+Get you **SECRET API KEY**: tarefas.app/tarefas.app/companies/edit
 
-Import the vendor library **Epicsweb/PhpTarefasApp** and call the function
+Import the vendor library **Epicsweb\PhpTarefasApp** and call the function
 
 ## Tasks API
 

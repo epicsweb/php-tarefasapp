@@ -10,7 +10,7 @@ class PhpTarefasApp
 
 		if( is_array($param) && $param['url'] && $param['data'] ) {
 
-			$url 			= 'https://tarefas.app/api/' . $param['url'];
+			$url 			= 'https://www.tarefas.app/api/' . $param['url'];
 			
 			$params 		= http_build_query( $param['data'], NULL, '&' );
 
